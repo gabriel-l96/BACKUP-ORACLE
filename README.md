@@ -1,6 +1,6 @@
 # Script de Backup Oracle
 
-- Qual a finalidade do script? Vamos lá, como disse no título ele tem o intuito de gerarmos o arquivo de backup do Banco de dados Oracle (Versões tesdadas: 10g e 11g), assim assegurando que você tenha 
+- Qual a finalidade do script? Vamos lá, como disse no título ele tem o intuito de gerarmos o arquivo de backup do Banco de dados Oracle (Versões tesdadas: 10g e 11g),assim assegurando que você tenha um backup extra do Banco de dados. **SEMPRE VERIFIQUE OS LOGS**
 
   1. Para que possamos utilizar o script em primeiro lugar precisamos saber qual o usuário e senha do nosso Banco de Dados.
 
