@@ -51,3 +51,6 @@
 
 - [Grupo GNU/LINUX Brasil](http://gnulinuxbrasil.com.br/)
 - Grupo TecnoLoucos
+
+## Responsabilidade
+   `Não me responsabilizo pela integridade ou quaisquer defeito que venha ser ocasionado no banco de dados, cada ambiente é um ambiente, por isso recomendo o teste em uma base que não esteja em produção para depois coloca-la em um ambiente de produção!`
