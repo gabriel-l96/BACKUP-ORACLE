@@ -4,12 +4,12 @@
 
 2. `Segundo, caso você utilize um HD externo ou que esteja conectado no interior da sua máquina recomendo que se utilize o mountvol para que ele possa montar a unidade enquanto o script estiver em execução e após a execução ele irá desmontar por questões de segurança e evitar acesso indevido ao conteúdo de backup.`
 
-   [Imgur](https://i.imgur.com/jIksjjk.png)
+   <a href="https://i.imgur.com/jIksjjk"><img src="https://i.imgur.com/jIksjjk.png" title="source: imgur.com" /></a>
   
 
 3. `Obtido os dados iremos editar o usuário e senha nos campos acima circulados.`
 
-   [Imgur](https://i.imgur.com/Ufjay5R.png)
+   <a href="https://i.imgur.com/Ufjay5R"><img src="https://i.imgur.com/Ufjay5R.png" title="source: imgur.com" /></a>
 
 4. `Lembrando que o diretório onde será feito no comando exdp o usuário que irá definir. No meu caso na criação do banco o diretório "COPIA" fica no C:\COPIA.`
 
@@ -21,25 +21,25 @@
 
 8. `Incuí o arquivo chama_backup.bat pois ele chama o script de backup e realiza a geração do log no qual podemos acompanhar se o processo de backup está sendo realizado corretamente, caso não esteja podemos identificar os erros e procurar as soluções para o mesmo.`
 
-   [Imgur](https://i.imgur.com/SXilqYa.png)
+   <a href="https://i.imgur.com/SXilqYa"><img src="https://i.imgur.com/SXilqYa.png" title="source: imgur.com" /></a>
 
 9. `Agora segue o passo a passo de como criar a tarefa para que ela possa ser executada de forma automatizada, sem a necessidade de ficarmos executando ela manualmente.`
 
-   [Imgur](https://i.imgur.com/jgXwyCP.png)
+   <a href="https://i.imgur.com/jgXwyCP"><img src="https://i.imgur.com/jgXwyCP.png" title="source: imgur.com" /></a>
 
-   [Imgur](https://i.imgur.com/oCIc4Y1.png)
+   <a href="https://i.imgur.com/oCIc4Y1"><img src="https://i.imgur.com/oCIc4Y1.png" title="source: imgur.com" /></a>
 
-   [Imgur](https://i.imgur.com/uSX3xWI.png)
+   <a href="https://i.imgur.com/uSX3xWI"><img src="https://i.imgur.com/uSX3xWI.png" title="source: imgur.com" /></a>
 
-   [Imgur](https://i.imgur.com/arAsvsO.png)
+   <a href="https://i.imgur.com/arAsvsO"><img src="https://i.imgur.com/arAsvsO.png" title="source: imgur.com" /></a>
 
-   [Imgur](https://i.imgur.com/OuIZ2IC.png)
+   <a href="https://i.imgur.com/OuIZ2IC"><img src="https://i.imgur.com/OuIZ2IC.png" title="source: imgur.com" /></a>
 
-   [Imgur](https://i.imgur.com/sbLXWoB.png)
+   <a href="https://imgur.com/sbLXWoB"><img src="https://i.imgur.com/sbLXWoB.png" title="source: imgur.com" /></a>
 
    `Aqui iremos olhar a primeira janela das propriedades da nossa tarefa, marquem as mesmas caixas que estão marcadas nessa imagem.`
 
-   [Imgur](https://i.imgur.com/arAsvsO.png)
+   <a href="https://i.imgur.com/arAsvsO"><img src="https://i.imgur.com/arAsvsO.png" title="source: imgur.com" /></a>
 
    `Iremos definir quantas vezes o script irá executar em nosso sistema, aqui coloquei 3x ao dia em horários de menor pico.`
 
